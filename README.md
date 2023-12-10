@@ -1,1 +1,2 @@
-# Airton-Cesar
+Olá, Mundo! Me chamo Airton Cesar, tenho 32 anos, sou desenvolvedor Full-Stack, atualmente fazendo o curso de Desenvolvimento de Software com foco em Back-end na Cubos Academy. Domino conhecimentos em Javascript, HTML, CSS, como também o uso de bibliotecas e Frameworks, como React.js, Express, entre outros. Minhas habilidades consistem na produção de programas funcionais, Landing-Pages, sites de cadastro, redirecionamento, tudo isso com possibilidade de uma excelente estilização e uso de responsividade, além de componentizações em REACT. 
+Adoro ser proativo, responsável com prazos e qualidade prestada e tenho ótima relação interpessoal para fins colaborativos em equipes.
